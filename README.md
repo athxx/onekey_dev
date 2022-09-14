@@ -7,12 +7,12 @@ onekey to install language enviornment
 
 Golang
 ============
-Usage:
-  go_env.sh install
-  go_env.sh install 1.19.1
-  go_env.sh update
-  go_env.sh update 1.19.1
-  go_env.sh remove
+Usage:  
+  - go_env.sh install
+  - go_env.sh install 1.19.1
+  - go_env.sh update
+  - go_env.sh update 1.19.1
+  - go_env.sh remove
 
 
 
@@ -24,5 +24,6 @@ Ruby
 ======
 
 Java
+======
 
 
